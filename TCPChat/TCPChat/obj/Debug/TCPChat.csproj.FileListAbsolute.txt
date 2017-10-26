@@ -1,0 +1,21 @@
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChat\bin\Debug\TCPChat.exe.config
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChat\bin\Debug\TCPChat.exe
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChat\bin\Debug\TCPChat.pdb
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChat\obj\Debug\TCPChat.csprojResolveAssemblyReference.cache
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChat\obj\Debug\TCPChat.Form1.resources
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChat\obj\Debug\TCPChat.Properties.Resources.resources
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChat\obj\Debug\TCPChat.csproj.GenerateResource.Cache
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChat\obj\Debug\TCPChat.exe
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChat\obj\Debug\TCPChat.pdb
+I:\TCPChat\TCPChat\bin\Debug\TCPChat.exe.config
+I:\TCPChat\TCPChat\obj\Debug\TCPChat.exe
+I:\TCPChat\TCPChat\obj\Debug\TCPChat.pdb
+C:\Usesr Files\Politeh2\c#\TCPChat\TCPChat\bin\Debug\TCPChat.exe.config
+C:\Usesr Files\Politeh2\c#\TCPChat\TCPChat\obj\Debug\TCPChat.exe
+C:\Usesr Files\Politeh2\c#\TCPChat\TCPChat\obj\Debug\TCPChat.pdb
+C:\Usesr Files\Politeh2\c#\TCPChat\TCPChat\bin\Debug\TCPChat.exe
+C:\Usesr Files\Politeh2\c#\TCPChat\TCPChat\bin\Debug\TCPChat.pdb
+C:\Usesr Files\Politeh2\c#\TCPChat\TCPChat\obj\Debug\TCPChat.csprojResolveAssemblyReference.cache
+C:\Usesr Files\Politeh2\c#\TCPChat\TCPChat\obj\Debug\TCPChat.Form1.resources
+C:\Usesr Files\Politeh2\c#\TCPChat\TCPChat\obj\Debug\TCPChat.Properties.Resources.resources
+C:\Usesr Files\Politeh2\c#\TCPChat\TCPChat\obj\Debug\TCPChat.csproj.GenerateResource.Cache

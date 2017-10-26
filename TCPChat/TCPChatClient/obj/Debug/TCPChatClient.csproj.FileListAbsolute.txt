@@ -1,0 +1,9 @@
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChatClient\bin\Debug\TCPChatClient.exe.config
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChatClient\obj\Debug\TCPChatClient.csprojResolveAssemblyReference.cache
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChatClient\obj\Debug\TCPChatClient.Form1.resources
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChatClient\obj\Debug\TCPChatClient.Properties.Resources.resources
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChatClient\obj\Debug\TCPChatClient.csproj.GenerateResource.Cache
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChatClient\bin\Debug\TCPChatClient.exe
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChatClient\bin\Debug\TCPChatClient.pdb
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChatClient\obj\Debug\TCPChatClient.exe
+Z:\23502.2\Воронюк Роман\TCPChat\TCPChatClient\obj\Debug\TCPChatClient.pdb
